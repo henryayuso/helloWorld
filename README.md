@@ -1,6 +1,7 @@
 # helloWorld
 refreshing myself with git-hub
 
-<div>
+<div bg-color= "blue">
 this is in the div
+  <button>me</button>
 </div>
